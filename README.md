@@ -36,4 +36,4 @@ WHMCS Hook Minecraft Services
 6. 保存设置，尝试购买，并查看游戏后台是否有效果
 
 ## 开源协议
-本项目使用 MIT 协议开源，协议内容有补充，详见 LICENSE
+本项目协议内容详见 LICENSE
